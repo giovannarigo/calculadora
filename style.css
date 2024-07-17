@@ -1,0 +1,79 @@
+.border {
+    border: 2px solid rgb(39, 39, 39);
+}
+body {
+    background-color: rgb(183, 124, 238);
+}
+#calculadora {
+    background-color: #3C3C3C;
+    position: relative;
+    width: 350px;
+    height: 500px;
+    margin: auto;
+    top: 100px;
+
+}
+
+#resultados {
+    position: relative;
+    width: 340px;
+    height: 120px;
+    margin: auto;
+    top: 5px;
+    background-color: #3C3C3C;
+}
+
+#numeroResultado {
+    color: rgb(208, 214, 213);
+    font-size: 40px;
+    position: relative;
+    padding: 10px;
+    top: 60px;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+#tecladoNumerico {
+    width: 340px;
+    height: 365px;
+    position: relative;
+    margin: auto;
+    top: 6px; 
+}
+
+#igual {
+    flex-grow: 2;
+}
+
+.buttons {
+    width: 100px;
+    height: 73px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    background-color: #252427;
+    color: rgb(208, 214, 213);
+}
+
+.buttons:hover {
+    background-color: #9b84b9;
+}
+.botoesColoridos {
+    background-color: #FFFD7D;
+    color: black;
+}
+.botoesColoridos:hover {
+    background-color: #FFC87D;
+}
+.botaoIgual {
+    background-color: #c0bd6c;
+    color: black;
+}
+.botaoIgual:hover {
+    background-color: #FFC87D;
+}
+.linhas {
+    display: flex;
+}
