@@ -1,7 +1,10 @@
 <h1>Calculadora Simples</h1>
 
  ## :pencil: Sobre
- <p> Projeto pessoal de uma calculadora simples para fins de estudo de lógica de programação.</p>
+ <div>
+  <p> Projeto pessoal de uma calculadora simples para fins de estudo de lógica de programação.</p>
+  <img src="https://github.com/user-attachments/assets/227c7720-223c-4722-bcc3-0c72447aeba9" alt="Calculadora" width="300">
+ </div>
 
  ## :rocket: Tecnologias
 <div>
